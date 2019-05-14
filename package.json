@@ -1,0 +1,19 @@
+{
+  "name": "react-rig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottabraham/react-rig.git"
+  },
+  "author": "Scott Abraham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottabraham/react-rig/issues"
+  },
+  "homepage": "https://github.com/scottabraham/react-rig#readme"
+}
