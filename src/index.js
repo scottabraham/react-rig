@@ -1,3 +1,3 @@
-import Button from './components/Button/Button.jsx'
+import {Button} from './componentRegistry'
 
 exports.Button = Button
